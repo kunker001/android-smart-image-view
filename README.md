@@ -19,3 +19,6 @@ Documentation, Features and Examples
 Full details and documentation can be found on the project page here:
 
 <http://loopj.com/android-smart-image-view/>
+
+
+这是一个安卓显示网络url图片功能的自定义控件
